@@ -2,7 +2,7 @@
 const Data = [
   {
     id: 1,
-    title: "Parthenon",
+    title: "SHIVA",
     location: "GREECE",
     googleMapsUrl: "https://goo.gl/maps/a2UaeW8LQQ6RvxD3A",
     natural: false,
